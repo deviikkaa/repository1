@@ -15,3 +15,4 @@ class PalindromeExample{
    System.out.println("not palindrome");    
 }  
 }  
+i have made new changes 
